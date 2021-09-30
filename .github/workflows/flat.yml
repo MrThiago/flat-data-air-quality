@@ -1,0 +1,36 @@
+# Notes
+# Cron syntax
+# mm HH DD MM DW
+#  \  \  \  \  \__ Days of week
+#   \  \  \  \____ Months
+#    \  \  \______ Days
+#     \  \________ Hours
+#      \__________ Minutes
+#
+name: AirQuality Flat Data
+on:
+  schedule:
+    - cron: 0 */6 * * * # Run this workflow every 6 hours (https://crontab.guru/examples.html)
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/flat.yml
+      - postprocess.js
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: ${{ secrets.API_AIRQUALITY }}
+          downloaded_filename: air-quality.json
+          postprocess: postprocess.js
+          mask: true
