@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Friday 1 October to end of Friday 1 October GMT",
+        "summary": "Low air pollution forecast valid from Saturday 2 October to end of Saturday 2 October GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "On Friday our weather continues to be influenced by an Atlantic low pressure system centered north west of the UK and Ireland.&lt;br/&gt;&lt;br/&gt;Mostly wet and windy ensuring good dispersion of any local emissions. &lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;Sulphur Dioxide",
+        "description": "Our weather continues to be dominated by an Atlantic low pressure system centered north west of the UK.&lt;br/&gt;&lt;br/&gt;After a cloudy start to Saturday, wind and rain will develop, resulting in blustery wet conditions by evening. It&#39;s expected to settle down again into the night.&lt;br/&gt;&lt;br/&gt;Good dispersion of any local emissions is forecast in a continuing fresh &#39;clean&#39; Atlantic airflow. &lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;Sulphur Dioxide",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
