@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Saturday 2 October to end of Saturday 2 October GMT",
+        "summary": "Low air pollution forecast valid from Sunday 3 October to end of Sunday 3 October GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Our weather continues to be dominated by an Atlantic low pressure system centered north west of the UK.&lt;br/&gt;&lt;br/&gt;After a cloudy start to Saturday, wind and rain will develop, resulting in blustery wet conditions by evening. It&#39;s expected to settle down again into the night.&lt;br/&gt;&lt;br/&gt;Good dispersion of any local emissions is forecast in a continuing fresh &#39;clean&#39; Atlantic airflow. &lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;Sulphur Dioxide",
+        "description": "Our weather continues to be dominated by a slow moving Atlantic low pressure system located to the north of the UK. .&lt;br/&gt;&lt;br/&gt;Sunday sees the 40th running of the London Marathon and it&#39;s forecast to be cloudy with sunny intervals throughout the day, intermittent showers are also forecast.&lt;br/&gt;&lt;br/&gt;A fresh &#39;Atlantic&#39; south-westerly airflow is expected to increase from late morning, easing again by evening. These condition will ensure good dispersion of any local emissions.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;Sulphur Dioxide",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
