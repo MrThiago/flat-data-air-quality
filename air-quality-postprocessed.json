@@ -1,14 +1,14 @@
 [
     {
         "type": "Current",
-        "band": "Low",
-        "summary": "Low air pollution forecast valid from Friday 8 October to end of Friday 8 October GMT",
+        "band": "Moderate",
+        "summary": "Moderate air pollution forecast valid from Saturday 9 October to end of Saturday 9 October GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
-        "particulateMatter": "Low",
-        "fineParticulateMatter": "Low",
+        "particulateMatter": "Moderate",
+        "fineParticulateMatter": "Moderate",
         "sulfurDioxide": "Low",
-        "description": "Friday is forecast to be mostly cloudy with some sunny intervals later.&lt;br/&gt;&lt;br/&gt;A light southerly breeze becoming easterly with an airflow initially from the Atlantic and later from the North Sea having passed over the near continent. &lt;br/&gt;&lt;br/&gt;A brief increase in particulate pollution due to local emissions may occur early in the day with calmer conditions as the wind direction changes, this should disperse again as a breeze picks up. Also a later air feed via the near continent may introduce some particulate pollution and levels may begin to build later on Friday evening.&lt;br/&gt;&lt;br/&gt;Overall air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;Sulphur Dioxide",
+        "description": "Cloud cover will clear on Saturday morning to a dry warm day with sunny intervals.&lt;br/&gt;&lt;br/&gt;A light easterly airflow is forecast, initially from the North Sea then traveling over the near continent. This may introduce some particulate pollution and levels may build during the day to reach &#39;moderate&#39;.&lt;br/&gt;&lt;br/&gt;Overall air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
