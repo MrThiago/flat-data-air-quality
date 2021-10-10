@@ -1,14 +1,14 @@
 [
     {
         "type": "Current",
-        "band": "Moderate",
-        "summary": "Moderate air pollution forecast valid from Saturday 9 October to end of Saturday 9 October GMT",
+        "band": "Low",
+        "summary": "Low air pollution forecast valid from Sunday 10 October to end of Monday 11 October GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
-        "particulateMatter": "Moderate",
-        "fineParticulateMatter": "Moderate",
+        "particulateMatter": "Low",
+        "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Cloud cover will clear on Saturday morning to a dry warm day with sunny intervals.&lt;br/&gt;&lt;br/&gt;A light easterly airflow is forecast, initially from the North Sea then traveling over the near continent. This may introduce some particulate pollution and levels may build during the day to reach &#39;moderate&#39;.&lt;br/&gt;&lt;br/&gt;Overall air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide",
+        "description": "The weekend weather is forecast to be dry with sunny periods.&lt;br/&gt;&lt;br/&gt;The easterly air flow is expected to become more north westerly as a high pressure area moves over the Atlantic Ocean.&lt;br/&gt;&lt;br/&gt;With little pollution import and adequate dispersion of local emmisions, overall air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
