@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Sunday 10 October to end of Monday 11 October GMT",
+        "summary": "Low air pollution forecast valid from Tuesday 12 October to end of Wednesday 13 October GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "The weekend weather is forecast to be dry with sunny periods.&lt;br/&gt;&lt;br/&gt;The easterly air flow is expected to become more north westerly as a high pressure area moves over the Atlantic Ocean.&lt;br/&gt;&lt;br/&gt;With little pollution import and adequate dispersion of local emmisions, overall air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
+        "description": "Dry, settled weather is set to continue during Tuesday and Wednesday. A light north-westerly breeze will though bring a &#39;clean&#39; feed of maritime air from the Atlantic while giving enough air movement to disperse local emissions.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
