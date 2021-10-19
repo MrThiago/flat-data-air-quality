@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Sunday 17 October to end of Monday 18 October GMT",
+        "summary": "Low air pollution forecast valid from Tuesday 19 October to end of Wednesday 20 October GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "A largely cloudy day for Sunday with a southerly breeze developing. With air arriving in  Greater London from rural regions of France, there&#39;ll be little imported pollution allied with good dispersion of local emissions.&lt;br/&gt;&lt;br/&gt;Broadly similar conditions are expected to continue during Monday, again with little import and good local dispersion.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
+        "description": "Unsettled weather for Tuesday and Wednesday as weather fronts arrive from the Atlantic. The resulting strong winds will give good atmospheric mixing and quick dispersal of local emissions.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
