@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Saturday 23 October to end of Saturday 23 October GMT",
+        "summary": "Low air pollution forecast valid from Sunday 24 October to end of Sunday 24 October GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Mostly cloudy on Saturday.&lt;br/&gt;&lt;br/&gt;After a calm start to the day, a south-westerly Atlantic breeze is expected from late morning. This breeze should ensure that, any local pollution which had accumulated overnight and during the morning, dissipates quickly.&lt;br/&gt;&lt;br/&gt;A continuing &#39;clean&#39; Atlantic airflow is forecast throughout Saturday.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
+        "description": "Sunday is forecast to be overcast with sunny intervals.&lt;br/&gt;&lt;br/&gt;A fresh southerly or south-westerly breeze is expected throughout the day. The breeze should ensure good atmospheric mixing and dispersal of any local emissions.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
