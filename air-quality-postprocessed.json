@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Saturday 30 October to end of Monday 1 November GMT",
+        "summary": "Low air pollution forecast valid from Monday 1 November to end of Wednesday 3 November GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Low pressure fronts arriving from the Atlantic will affect the weather in Greater London over the weekend and Monday.&lt;br/&gt;These successive bouts of wet and windy weather will make progress eastwards leading to temperatures below average. Some sunny spells are likely, these perhaps most widespread on Saturday afternoon and Monday. &lt;br/&gt;The fresh breeze will disperse local emissions and little imported pollution. &lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
+        "description": "Weather fronts arriving from the Atlantic will affect the weather in Greater London. &lt;br/&gt;Any early fog patches will clear, with sunny periods following for most. Most parts staying dry, although the odd shower cannot be completely ruled out. Light winds, but feeling rather cool. The fresh breeze will disperse local emissions and little imported pollution. &lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
