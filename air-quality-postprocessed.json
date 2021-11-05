@@ -1,14 +1,14 @@
 [
     {
         "type": "Current",
-        "band": "Moderate",
-        "summary": "Moderate air pollution forecast valid from Thursday 4 November to end of Thursday 4 November GMT",
+        "band": "High",
+        "summary": "High air pollution forecast valid from Friday 5 November to end of Friday 5 November GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
-        "particulateMatter": "Moderate",
-        "fineParticulateMatter": "Moderate",
+        "particulateMatter": "High",
+        "fineParticulateMatter": "High",
         "sulfurDioxide": "Low",
-        "description": "Weather fronts bringing cold air from the Arctic Circle will affect Greater London during Thursday. Any early fog patches will clear, with sunny periods following for most. Most parts staying dry, although the odd shower cannot be completely ruled out, feeling rather cool.&lt;br/&gt;&lt;br/&gt;Good dispersion of local emissions is expected during daylight hours on a fresh northerly breeze. However, the wind will fall lighter during the evening and this will coincide with the start of Diwali celebration firework displays. If the celebrations are widespread, PM10 and PM2.5 particulate concentrations will increase, especially in suburban areas. This might result in particulate levels reaching the &#39;Moderate&#39; banding in some locations.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;",
+        "description": "Settled weather conditions are forecast for Friday 5th November, with light winds throughout the day.&lt;br/&gt;&lt;br/&gt;A sharp rise in PM10 and PM2.5 particulate concentrations is expected from early evening onwards as Guy Fawkes Night is marked by bonfires and fireworks. There&#39;s likely to be an additional particulate contribution from fireworks to celebrate Diwali. &lt;br/&gt;&lt;br/&gt;With little wind to aid dispersion, particulate concentrations are expected to widely reach the &#39;Moderate&#39; banding across Greater London. Close to larger Guy Fawkes Night and Diwali events, there is the potential for particulate concentrations to reach the &#39;High&#39; banding.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
