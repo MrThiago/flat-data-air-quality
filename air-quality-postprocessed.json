@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Saturday 6 November to end of Saturday 6 November GMT",
+        "summary": "Low air pollution forecast valid from Sunday 7 November to end of Sunday 7 November GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "With light winds during the early hours of Saturday, elevated concentrations of PM10 and PM2.5 particulates are expected as bonfire and firework emissions from the night before linger.&lt;br/&gt;&lt;br/&gt;Wind speeds are then forecast to increase markedly from Saturday morning and this will quickly reduce particulate levels as dispersion improves. With the breeze continuing into the evening, there should be good dispersion of particulates emitted from Guy Fawkes firework displays and bonfires.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;",
+        "description": "Sunday is forecast to overcast with a fresh north-westerly breeze for most of the day.&lt;br/&gt;&lt;br/&gt;It&#39;s expected there will be good dispersion of particulates emitted from any Guy Fawkes firework displays and bonfires.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
