@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Wednesday 10 November to end of Thursday 11 November GMT",
+        "summary": "Low air pollution forecast valid from Wednesday 10 November to end of Wednesday 10 November GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Wednesday is forecast to be cloudy  with a chance of light rain. Mainly dry with cloud cover and brighter intervals on Thursday. &lt;br/&gt;&lt;br/&gt;Back-trajectories show air arriving having travelled from the Atlantic therefore very little import is expected from this path. On Thursday the path will become south westerly. &lt;br/&gt;&lt;br/&gt;Overall, air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;",
+        "description": "Wednesday is forecast to be cloudy  with a chance of light rain, mainly dry.&lt;br/&gt;&lt;br/&gt;Back-trajectories show air arriving having travelled from the Atlantic therefore very little import is expected from this path. &lt;br/&gt;&lt;br/&gt;Overall, air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
