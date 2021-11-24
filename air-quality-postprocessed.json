@@ -1,14 +1,14 @@
 [
     {
         "type": "Current",
-        "band": "Low",
-        "summary": "Low air pollution forecast valid from Wednesday 24 November to end of Wednesday 24 November GMT",
+        "band": "Moderate",
+        "summary": "Moderate air pollution forecast valid from Wednesday 24 November to end of Wednesday 24 November GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
-        "particulateMatter": "Low",
-        "fineParticulateMatter": "Low",
+        "particulateMatter": "Moderate",
+        "fineParticulateMatter": "Moderate",
         "sulfurDioxide": "Low",
-        "description": "Foggy start on Wednesday with a chance of rain in the afternoon. &lt;br/&gt;&lt;br/&gt;The brisk northerly winds will give good dispersion of local emissions allied with little imported pollution.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
+        "description": "Forecast update morning Wednesday 24th November.&lt;br/&gt;&lt;br/&gt;Very light winds are resulting in poor dispersion of locally-emitted pollutants, most notably PM10 Particulates. &lt;br/&gt;&lt;br/&gt;With still weather conditions forecast to continue for the remainder of the day, it&#39;s likely that &#39;Moderate&#39; levels of PM10, and possibly PM2.5 Particulates as well, will occur close to some busy roads.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
