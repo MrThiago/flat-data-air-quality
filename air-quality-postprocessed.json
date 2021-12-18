@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Friday 17 December to end of Friday 17 December GMT",
+        "summary": "Low air pollution forecast valid from Saturday 18 December to end of Saturday 18 December GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Friday will be another grey, cloudy day, but most places should stay dry. Remaining mild for the time of year, but becoming breezy in the afternoon.&lt;br/&gt;&lt;br/&gt;Local build up of pollutants should be prevented by the &#39;clean&#39; Atlantic breeze.&lt;br/&gt;&lt;br/&gt;Air pollution is largely expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
+        "description": "Saturday will be generally cloudy but dry, as cloudier conditions arrive from the east, with a noticeable breeze developing. Feeling colder than recent days.&lt;br/&gt;&lt;br/&gt;Local build up of pollutants should be prevented by the &#39;clean&#39; north-east breeze.&lt;br/&gt;&lt;br/&gt;Air pollution is largely expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
