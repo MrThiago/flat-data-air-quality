@@ -1,14 +1,14 @@
 [
     {
         "type": "Current",
-        "band": "Low",
-        "summary": "Low air pollution forecast valid from Monday 20 December to end of Monday 20 December GMT",
+        "band": "Moderate",
+        "summary": "Moderate air pollution forecast valid from Tuesday 21 December to end of Tuesday 21 December GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
-        "particulateMatter": "Low",
-        "fineParticulateMatter": "Low",
+        "particulateMatter": "Moderate",
+        "fineParticulateMatter": "Moderate",
         "sulfurDioxide": "Low",
-        "description": "Overcast and cold on Monday.&lt;br/&gt;&lt;br/&gt;Any build-up of pollutants locally should be prevented by a North Sea airflow.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
+        "description": "Continuing overcast and cloudy on Tuesday with a very light breeze.&lt;br/&gt;&lt;br/&gt;Early on, a relatively clean North Sea air-feed is forecast. From late afternoon it&#39;s expected to give way to an easterly airflow which will have passed at low altitude over urban and industrial areas on the continent. This later air-feed may contain a higher particulate load and as a result we may reach &#39;Moderate&#39; particulates by evening.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide &lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
