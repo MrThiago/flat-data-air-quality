@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Friday 24 December to end of Friday 24 December GMT",
+        "summary": "Low air pollution forecast valid from Saturday 25 December to end of Tuesday 28 December GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Another change in air flow is predicted for Christmas Eve which will bring air from Spain and western France.  This should result in little pollution import.&lt;br/&gt;&lt;br/&gt;The weather is forecast to be cloudy with rain in the afternoon and evening.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
+        "description": "Air mass back trajectories indicate that incoming air on Christmas Day will have travelled across the west and north of France. Reduced emissions due to the holiday period and the pandemic are not likely to result in significant pollution import.  Rain arriving later in the day. &lt;br/&gt;Further rain forecast for Sunday. Cloud cover and periods of rain Monday and Tuesday with  relatively clean air arriving from the Atlantic. &lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates. &lt;br/&gt;&lt;br/&gt;With best wishes for the festive period from Imperial ERG.",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
