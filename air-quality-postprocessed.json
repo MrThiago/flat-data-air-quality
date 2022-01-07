@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Thursday 6 January to end of Thursday 6 January GMT",
+        "summary": "Low air pollution forecast valid from Friday 7 January to end of Friday 7 January GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "A cold clear start to Thursday with some sunshine. Wind and rain arriving later. &lt;br/&gt;&lt;br/&gt;There may be a local build-up of pollution overnight into Thursday morning in very cold temperatures and almost calm conditions. From early afternoon a southerly breeze is expected to pick-up, increasing and becoming westerly by late evening. This developing &#39;clean&#39; Atlantic breeze from early afternoon should ensure any pollution build-up early in the day is rapidly dispersed.&lt;br/&gt;&lt;br/&gt;Overall, air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates. &lt;br/&gt;&lt;br/&gt;",
+        "description": "Cloudy on Friday with some sunshine and showers. &lt;br/&gt;&lt;br/&gt;A &#39;clean&#39; fresh south-westerly or westerly Atlantic breeze is expected for most of the day.&lt;br/&gt;&lt;br/&gt;Air pollution is forecast to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates. &lt;br/&gt;&lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
