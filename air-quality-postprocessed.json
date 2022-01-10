@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Sunday 9 January to end of Sunday 9 January GMT",
+        "summary": "Low air pollution forecast valid from Monday 10 January to end of Monday 10 January GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Sunday is forecast to be dry with sunny intervals and temperatures around 7 degrees.&lt;br/&gt;&lt;br/&gt;A continuing Atlantic airflow will keep pollution &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;&lt;br/&gt;",
+        "description": "Monday is forecast to be similar to Sunday, dry with sunny intervals and temperatures around 10 degrees. &lt;br/&gt;&lt;br/&gt;Surface pressure charts show a weak high pressure system establishing over central Europe on Monday. This is often associated with easterly wind and an import of pollution. Back-trajectories don&#39;t currently show any import airfeed. We will keep this under review.&lt;br/&gt;&lt;br/&gt;Overall, air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;&lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
