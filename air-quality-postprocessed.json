@@ -1,14 +1,14 @@
 [
     {
         "type": "Current",
-        "band": "Moderate",
-        "summary": "Moderate air pollution forecast valid from Friday 14 January to end of Friday 14 January GMT",
-        "nitrogenDioxide": "Moderate",
+        "band": "Low",
+        "summary": "Low air pollution forecast valid from Saturday 15 January to end of Saturday 15 January GMT",
+        "nitrogenDioxide": "Low",
         "ozone": "Low",
-        "particulateMatter": "Moderate",
-        "fineParticulateMatter": "Moderate",
+        "particulateMatter": "Low",
+        "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Fine and settled, with some sunshine by day but with overnight frosts and stubborn fog patches readily developing, and perhaps staying for lengthy periods in some areas and suppressing temperatures. Very little wind expected.&lt;br/&gt; &lt;br/&gt;These settled, still and foggy conditions could lead to a build up of local pollutants with Moderate levels of Particulates and possibly Nitrogen Dioxide being reached at some busy roadside and industrial locations. &lt;br/&gt;&lt;br/&gt;Overall, air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;",
+        "description": "Saturday is expected to be dry, cold and cloudy. With winds picking up over the weekend, dispersion of locally emitted pollution should improve when compared with recent days.  Back trajectories are currently indicating little import, but instead a recirculation of air around the South East of England.&lt;br/&gt;&lt;br/&gt;Overall, air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
