@@ -8,7 +8,7 @@
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Mainly dry forecast for Thursday with some sunshine feeling cold in brisk north westerly winds.  Similar for Friday with the cloud developing later in the day.&lt;br/&gt;&lt;br/&gt;Back trajectories indicate the air arriving in the UK from the Atlantic, there should be good dispersion and negligible import.&lt;br/&gt;&lt;br/&gt;Overall, air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
+        "description": "Mainly dry forecast with some sunshine but feeling cold in light north westerly winds. &lt;br/&gt;&lt;br/&gt;Back trajectories indicate the air arriving in the UK from the Atlantic, there should be good dispersion and negligible import.&lt;br/&gt;&lt;br/&gt;Overall, air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
