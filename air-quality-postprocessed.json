@@ -1,14 +1,14 @@
 [
     {
         "type": "Current",
-        "band": "Low",
-        "summary": "Low air pollution forecast valid from Saturday 22 January to end of Monday 24 January GMT",
+        "band": "Moderate",
+        "summary": "Moderate air pollution forecast valid from Tuesday 25 January to end of Tuesday 25 January GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
-        "particulateMatter": "Low",
-        "fineParticulateMatter": "Low",
+        "particulateMatter": "Moderate",
+        "fineParticulateMatter": "Moderate",
         "sulfurDioxide": "Low",
-        "description": "Mostly dry but rather cloudy. Near average temperatures will allow frost and some patches of fog to form overnight where breaks develop in the cloud. A light north westerly wind throughout. &lt;br/&gt;&lt;br/&gt;Back trajectories indicate the air arriving in the UK from the Atlantic, there should be good dispersion and negligible import.&lt;br/&gt;&lt;br/&gt;Overall, air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates",
+        "description": "Overcast and cold on Tuesday.&lt;br/&gt;&lt;br/&gt;For the most part a very light breeze to almost calm conditions are expected. An Atlantic airflow is forecast to loop around and spend some time over the near continent before arriving in the south east and London. It&#39;s likely this may add some pollution to that which has already accumulated due to low dispersion conditions locally.&lt;br/&gt;&lt;br/&gt;&#39;Moderate&#39; PM10 and PM2.5 are possible over the course of the day.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
