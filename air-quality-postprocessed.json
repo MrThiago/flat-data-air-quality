@@ -8,7 +8,7 @@
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Overcast and cold on Wednesday.&lt;br/&gt;&lt;br/&gt;Initially a light relatively&#39; clean&#39; westerly airflow, is likely to increase a little by evening. &lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;",
+        "description": "Wednesday, bright morning for many. Scattered cloud developing during the afternoon, although there will still be some intermittent sunny spells. Windy in the afternoon and feeling milder than yesterday. &lt;br/&gt;&lt;br/&gt;Relatively&#39; clean&#39; westerly airflow, is likely to increase during the day. &lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
