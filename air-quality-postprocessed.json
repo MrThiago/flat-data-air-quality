@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Saturday 29 January to end of Saturday 29 January GMT",
+        "summary": "Low air pollution forecast valid from Sunday 30 January to end of Monday 31 January GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "A strong westerly breeze will be a feature of Saturday&#39;s weather. Good local dispersion is expected while the incoming maritime air will carry little by way of imported pollution.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;",
+        "description": "After a settled start to Sunday, a breeze will develop and then strengthen throughout the day to effectively disperse local emissions.&lt;br/&gt;&lt;br/&gt;Strong winds are then expected during Monday, again giving good local dispersion.&lt;br/&gt;&lt;br/&gt;With relatively &#39;clean&#39; air arriving from the Atlantic on Sunday and Monday, imported pollution should not be a concern.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
