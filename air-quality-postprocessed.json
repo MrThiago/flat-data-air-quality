@@ -2,13 +2,13 @@
     {
         "type": "Current",
         "band": "Low",
-        "summary": "Low air pollution forecast valid from Saturday 5 February to end of Saturday 5 February GMT",
+        "summary": "Low air pollution forecast valid from Sunday 6 February to end of Sunday 6 February GMT",
         "nitrogenDioxide": "Low",
         "ozone": "Low",
         "particulateMatter": "Low",
         "fineParticulateMatter": "Low",
         "sulfurDioxide": "Low",
-        "description": "Frosty start Saturday, then milder and cloudy, but staying dry and windy.&lt;br/&gt;&lt;br/&gt;A south westerly Atlantic breeze is expected to be strong enough to ensure good dispersion of any local pollution emissions.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;",
+        "description": "Rain early on Sunday, easing but remaining cloudy.&lt;br/&gt;&lt;br/&gt;Throughout the day a &#39;clean&#39; westerly Atlantic breeze is forecast. Wind freshening later and arriving on a path from the north Atlantic. Good dispersion of any local pollution is expected.&lt;br/&gt;&lt;br/&gt;Air pollution is expected to remain &#39;Low&#39; throughout the forecast period for the following pollutants:&lt;br/&gt;&lt;br/&gt;Ozone&lt;br/&gt;PM10 Particulates&lt;br/&gt;PM2.5 Particulates&lt;br/&gt;Sulphur Dioxide&lt;br/&gt;Nitrogen Dioxide&lt;br/&gt;",
         "source": "http://londonair.org.uk/forecast",
         "disclaimerText": "This is for learning purpose and does not reflect real data source. See https://next.github.com/projects/flat-data for Flat Data Info"
     }
